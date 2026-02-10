@@ -1,0 +1,10 @@
+Varanasi_House_Pricing/
+│
+├── app.py
+├── regmodel.pkl
+├── scaler.pkl
+│
+├── templates/
+│   └── home.html   👈 REQUIRED
+│
+└── static/          (optional)
